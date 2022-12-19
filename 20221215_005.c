@@ -10,9 +10,5 @@ int main(){
     area = medida * medida;
     printf("O dobro da area do quadrado e igual a: %1.0f", area * 2);
 
-
-
-
-
     return 0;
 }

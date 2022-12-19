@@ -12,7 +12,5 @@ int main(){
     graus_celsius = (5 * (graus_fahrenheit-32) / 9);
     printf("Graus farenheit em graus celsius equivale a: %1.2f graus Celsius", graus_celsius);
 
-
-
     return 0;
 }

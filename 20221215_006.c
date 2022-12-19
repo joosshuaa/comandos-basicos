@@ -16,9 +16,5 @@ int main(){
      salario = ganho_em_horas * horas_trabalhadas;
      printf("Total do salario e: R$%1.0f", salario);
 
-
-
-
-
     return 0;
 }

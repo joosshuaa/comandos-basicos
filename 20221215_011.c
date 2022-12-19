@@ -22,7 +22,6 @@ int main(){
      printf("Qual o numeros de horas trabalhadas: ");
      scanf("%f", &horas_trabalhadas);
 
-
      salario = ganho_em_horas * horas_trabalhadas;
      Inss = (salario * 0.08);
      sindicato = (salario * 0.05);

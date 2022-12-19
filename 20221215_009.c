@@ -26,8 +26,5 @@ int main(){
     printf("\nA soma do triplo do primeiro com o terceiro: %.2f", p2);
     printf("\nO terceiro elevado ao cubo: %.2f", p3);
 
-
-
-
     return 0;
 }

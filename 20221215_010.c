@@ -10,9 +10,6 @@ int main(){
     printf("Digite sua altura: ");
     scanf("%f", &altura);
 
-    /*printf("Digite seu peso: ");
-    scanf("%f", &peso);*/
-
     peso = (72.7 * altura) - 58;
     printf("Peso ideal: %.2fkg", peso);
 

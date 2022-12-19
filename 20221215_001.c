@@ -5,7 +5,6 @@ int main(){
     int primeiroValor;
     int segundoValor;
     
-
     printf("Primeiro valor da adicao: ");
     scanf("%d", &primeiroValor);
 
@@ -13,16 +12,6 @@ int main(){
     scanf("%d", &segundoValor);
 
     printf("Resultado: %d", primeiroValor + segundoValor);
-
-
-    
-
-
-
-
-
-
-
 
     return 0;
 }

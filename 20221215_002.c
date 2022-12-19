@@ -19,13 +19,7 @@ int main(){
     printf("Digite a quarta nota: ");
     scanf("%f", &nota_4Bimestre);
 
-
     printf("media: %1.2f", (nota_1Bimestre + nota_2Bimestre + nota_3Bimestre + nota_4Bimestre)/4 );
-
-
-
-
-
 
     return 0;
 }

@@ -12,8 +12,5 @@ int main(){
     area = pi * raio;
     printf("Area calculada e igual a: %1.2f", area);
 
-
-
-
     return 0;
 }
